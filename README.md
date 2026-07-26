@@ -1,0 +1,1 @@
+# infopanel-xeneon-edge-widget
